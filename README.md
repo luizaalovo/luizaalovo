@@ -18,6 +18,9 @@ Olá, sou Luíza Angelo Lovo, formada em Técnico em Informática Integrado ao E
     <img src="badges/essential-functions-of-sas-intelligent-decisioning.png" width="100" height="100"/>
   </a>
 </div>
+
+### 📊 Estatisticas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizaalovo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **luizaalovo/luizaalovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
