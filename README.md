@@ -21,6 +21,8 @@ Olá, sou Luíza Angelo Lovo, formada em Técnico em Informática Integrado ao E
 
 ### 📊 Estatisticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizaalovo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=luizaalovo&theme=cobalt&locale=pt_BR)](https://git.io/streak-stats)
 <!--
 **luizaalovo/luizaalovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
