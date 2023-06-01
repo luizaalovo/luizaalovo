@@ -7,6 +7,9 @@ Olá, sou Luíza Angelo Lovo, formada em Técnico em Informática Integrado ao E
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
   </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" width="50" height="50"/>
+  </a>
 </div>
           
 <!--
