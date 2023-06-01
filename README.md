@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Olá, sou Luíza Angelo Lovo, formada em Técnico em Informática Integrado ao Ensino Médio, e estudante de Engenharia da Computação pela Faculdade Multivix. No curso de Engenharia da Computação, tenho aprendido temas como redes de computadores, comunicação de dados, bancos de dados, computação gráfica, sistemas digitais, circuitos elétricos, robótica e automação, e em paralelo venho me capacitando continuamente através de curso como Business Intelligence - BI, Análise de Dados, SQL, Python e SAS.
+
+
 <!--
 **luizaalovo/luizaalovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
