@@ -14,7 +14,7 @@ Olá, sou Luíza Angelo Lovo, formada em Técnico em Informática Integrado ao E
           
 ### 👩🏼‍💻 Bagdes
 <div id="badges" align="center">
-  <a href="[https://www.credly.com/badges/3453abeb-26e3-449e-9d43-0e5dc90adfe2/public_url%22%3E](https://www.credly.com/badges/3453abeb-26e3-449e-9d43-0e5dc90adfe2/public_url)"
+  <a href="https://www.credly.com/badges/3453abeb-26e3-449e-9d43-0e5dc90adfe2/public_url"
     <img src="badges\essential-functions-of-sas-intelligent-decisioning.png" width="100" height="100"/>
   </a>
 </div>
