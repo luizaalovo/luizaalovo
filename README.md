@@ -12,6 +12,8 @@ Olá, sou Luíza Angelo Lovo, formada em Técnico em Informática Integrado ao E
   </a>
 </div>
           
+### 👩🏼‍💻 Bagdes
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3453abeb-26e3-449e-9d43-0e5dc90adfe2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **luizaalovo/luizaalovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
