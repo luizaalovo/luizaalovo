@@ -17,8 +17,32 @@ Olá, sou Luíza Angelo Lovo, Engenheira de Computação e técnica em Informát
   <a href="https://www.credly.com/badges/3453abeb-26e3-449e-9d43-0e5dc90adfe2/public_url">
     <img src="badges/essential-functions-of-sas-intelligent-decisioning.png" width="100" height="100"/>
   </a>
-  <a href="https://www.credly.com/badges/420c72fa-854c-4deb-9105-c6e4195cf5e1public_url">
+  <a href="https://www.credly.com/badges/420c72fa-854c-4deb-9105-c6e4195cf5e1/public_url">
     <img src="badges/sas-visual-investigator-analysis-and-investigation.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/618dda91-3626-4f66-82b4-891f4515f0b5/public_url">
+    <img src="badges/building-an-interface-with-sas-visual-investigator.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/2b45b2fe-694c-4e8a-a04e-5d10e1bf2cad/public_url">
+    <img src="badges/business-intelligence-foundation-professional-certi.1.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/e0a767c5-3950-4617-b111-b4802bd0c904/public_url">
+    <img src="badges/sas-visual-analytics-1-for-sas9-basics.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/3bfdd181-b3c6-48b6-bdb8-41ac353b7f3e/public_url">
+    <img src="badges/remote-work-professional-certification-rwpc.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/9cfa0d60-bb7a-4579-b527-d676f2051e18/public_url">
+    <img src="badges/sas-visual-analytics-2-for-sas9-advanced.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/b6a566aa-89b5-4873-896c-57519acdbbae/public_url">
+    <img src="badges/sas-sql-1-essentials.1.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/27b01cd5-9903-46c3-8c68-6d4434057d4f/public_url">
+    <img src="badges/sas-programming-3-advanced-techniques.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/c58e07ce-aaa1-4632-826a-74d7c75619ac/public_url">
+    <img src="badges/lifelong-learning.png" width="100" height="100"/>
   </a>
 </div>
 
