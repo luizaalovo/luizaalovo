@@ -10,6 +10,12 @@ Olá, sou Luíza Angelo Lovo, Engenheira de Computação e técnica em Informát
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" width="50" height="50"/>
   </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/SAS_logo.svg" width="50" height="50"/>
+  </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" />
+  </a>
 </div>
           
 ### 👩🏼‍💻 Badges
