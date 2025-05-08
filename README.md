@@ -16,6 +16,9 @@ Olá, sou Luíza Angelo Lovo, Engenheira de Computação e técnica em Informát
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" />
   </a>
+  <a>
+    <img src="https://images.seeklogo.com/logo-png/28/1/sas-logo-png_seeklogo-289781.png" width="50" height="50" />
+  </a>
 </div>
           
 ### 👩🏼‍💻 Badges
