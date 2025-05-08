@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Olá, sou Luíza Angelo Lovo, Engenheira de Computação e técnica em Informática. No curso de Engenharia da Computação, aprendi temas como redes de computadores, comunicação de dados, bancos de dados, computação gráfica, sistemas digitais, circuitos elétricos, robótica e automação, e em paralelo me capacito continuamente através de curso como Business Intelligence - BI, Análise de Dados, SQL, Python e SAS.
+Olá, sou Luíza Angelo Lovo, e atualmente trabalho como Consultora em Inteligencia Analítica. No curso de Engenharia da Computação, aprendi temas como redes de computadores, comunicação de dados, bancos de dados, computação gráfica, sistemas digitais, circuitos elétricos, robótica e automação, e em paralelo me capacito continuamente através de curso como Business Intelligence - BI, Análise de Dados, SQL, Python e SAS.
+
+### 🎓 Formação
+- Técnica em Informática - EEEFM "Ilda Ferreira da Fonseca Martins"
+- Graduada em Engenharia de Computação - Multivix Vitória
+- Pós-graduanda em Ciência de Dados e Big Data - PUC Minas
 
 ### 💻 Ferramentas
 <div id="tecnologias" align="center">
