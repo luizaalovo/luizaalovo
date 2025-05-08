@@ -17,6 +17,9 @@ Olá, sou Luíza Angelo Lovo, Engenheira de Computação e técnica em Informát
   <a href="https://www.credly.com/badges/3453abeb-26e3-449e-9d43-0e5dc90adfe2/public_url">
     <img src="badges/essential-functions-of-sas-intelligent-decisioning.png" width="100" height="100"/>
   </a>
+  <a href="https://www.credly.com/badges/420c72fa-854c-4deb-9105-c6e4195cf5e1public_url">
+    <img src="badges/sas-visual-investigator-analysis-and-investigation.png" width="100" height="100"/>
+  </a>
 </div>
 
 ### 📊 Estatisticas
