@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, sou Luíza Angelo Lovo, formada em Técnico em Informática Integrado ao Ensino Médio, e estudante de Engenharia da Computação pela Faculdade Multivix. No curso de Engenharia da Computação, tenho aprendido temas como redes de computadores, comunicação de dados, bancos de dados, computação gráfica, sistemas digitais, circuitos elétricos, robótica e automação, e em paralelo venho me capacitando continuamente através de curso como Business Intelligence - BI, Análise de Dados, SQL, Python e SAS.
+Olá, sou Luíza Angelo Lovo, Engenheira de Computação e técnica em Informática. No curso de Engenharia da Computação, aprendi temas como redes de computadores, comunicação de dados, bancos de dados, computação gráfica, sistemas digitais, circuitos elétricos, robótica e automação, e em paralelo me capacito continuamente através de curso como Business Intelligence - BI, Análise de Dados, SQL, Python e SAS.
 
 ### 💻 Ferramentas
 <div id="tecnologias" align="center">
