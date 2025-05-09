@@ -61,6 +61,30 @@ Olá, sou Luíza Angelo Lovo, e atualmente trabalho como Consultora em Inteligê
   <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3987303">
     <img src="badges/H0NoEqdz5E8h4Y+JdvVEnzbFJxoVHzTKNG5YvBHLPus=.png" width="100" height="100"/>
   </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3987260">
+    <img src="badges/transformer_models_bert.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3987195">
+    <img src="badges/attention_mechanism.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3987151">
+    <img src="badges/encoder_decoder.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3987092">
+    <img src="badges/image_generation.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3986973">
+    <img src="badges/generative_ai.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3986760">
+    <img src="badges/responsible_ai.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3986604">
+    <img src="badges/large_language_models.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3986497">
+    <img src="badges/introduction_generative_ai.png" width="100" height="100"/>
+  </a>
 </div>
 
 ### 📊 Estatisticas
