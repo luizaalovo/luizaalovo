@@ -58,6 +58,9 @@ Olá, sou Luíza Angelo Lovo, e atualmente trabalho como Consultora em Inteligê
   <a href="https://www.credly.com/badges/c58e07ce-aaa1-4632-826a-74d7c75619ac/public_url">
     <img src="badges/lifelong-learning.png" width="100" height="100"/>
   </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9184d4f9-2bcf-40ba-8bcf-96d017e70404/badges/3987303">
+    <img src="badges/H0NoEqdz5E8h4Y+JdvVEnzbFJxoVHzTKNG5YvBHLPus=.png" width="100" height="100"/>
+  </a>
 </div>
 
 ### 📊 Estatisticas
