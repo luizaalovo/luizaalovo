@@ -6,7 +6,7 @@ Olá, sou Luíza Angelo Lovo, e atualmente trabalho como Consultora em Inteligê
 - Técnica em Informática - EEEFM "Ilda Ferreira da Fonseca Martins"
 - Graduada em Engenharia de Computação - Multivix Vitória
 - Pós-graduada em Ciência de Dados e Big Data - PUC Minas
-- Pós-graduada em Engenharia de Dados - PUC Minas
+- Pós-graduanda em Engenharia de Dados - PUC Minas
 
 ### 💻 Ferramentas
 <div id="tecnologias" align="center">
